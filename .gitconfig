@@ -1,0 +1,14 @@
+[user]
+	name = Anna Lima
+	email = annavanwesep@gmail.com
+[core]
+	ignorecase = false
+	editor = code --wait
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+[push]
+	default = current
+[pull]
+	rebase = false
